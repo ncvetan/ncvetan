@@ -1,6 +1,6 @@
-### Hello! My name is Noah Cvetanovski (he/him). I've received Bachelor of Applied Science in Electrical Engineering, but I am most passionate about code. In my free time I enjoy programming Python, JavaScript, C++, and C. I also do graphic design and martial arts. 
+### Hello! My name is Noah Cvetanovski (he/him). I've received my Bachelor of Applied Science in Electrical Engineering, but I am most passionate about code. In my free time I enjoy programming Python, JavaScript, C++, and C. I also do graphic design and martial arts. 
 
-If you would like to contact me, please feel free to email me at ncvetanovski00@gmail.com!
+If you would like to contact me, please feel free to email me at noahcvetanovski@gmail.com!
 
 <!--
 **ncvetan/ncvetan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
