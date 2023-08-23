@@ -1,6 +1,6 @@
 ### Hello! My name is Noah Cvetanovski (he/him).
 
-I primarily program in C++, Python, and JavaScript. Outside of code, I also do graphic design and martial arts.
+I primarily program in C++ and Python. Outside of code, I also do graphic design and martial arts.
 
 I'm currently interested in the field of computer graphics, and this is where I've been dedicating my studying :)
 
